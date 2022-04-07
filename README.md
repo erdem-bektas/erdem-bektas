@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Erdem
 
-Solidity / React / Python / NodeJS / PHP
+Solidity / React / NodeJS / Python / PHP
 
-- 🌱 I’m currently learning Blockchain Technologies like Avalanche 
+- 🌱 I’m currently learning Blockchain Technologies
 - 📫 How to reach me: actasalways@gmail.com 
 
 
