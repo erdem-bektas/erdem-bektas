@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Erdem
 
-Solidity / Javascript / Typescript / NodeJS / Python 
+Javascript / Typescript / NodeJS / Python 
 
-- 🌱 I’m currently learning Blockchain Technologies
+- 🌱 I’m currently learning Cloud 
 - 📫 How to reach me: bektas_erdem@icloud.com
 
 
